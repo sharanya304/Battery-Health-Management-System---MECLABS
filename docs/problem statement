@@ -1,0 +1,5 @@
+## Problem Statement
+
+Lithium-ion batteries are widely used in modern electronic systems but are highly sensitive to unsafe operating temperatures. Repeated exposure to thermal stress reduces battery life, efficiency, and safety. Conventional low-cost battery monitoring systems do not track long-term thermal abuse history.
+
+This project aims to design a simple embedded system that monitors battery temperature and records unsafe thermal events to help assess long-term battery health.
