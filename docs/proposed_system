@@ -1,0 +1,5 @@
+## Proposed System
+
+The proposed system uses an ESP32 microcontroller to continuously monitor battery voltage and temperature. A DS18B20 temperature sensor is used to measure battery temperature, while voltage is monitored using a resistive divider.
+
+When the temperature exceeds safe thresholds, the system records a thermal abuse event in non-volatile memory. Over time, this data provides insight into battery usage conditions and health degradation.
