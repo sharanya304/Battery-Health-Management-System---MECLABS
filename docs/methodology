@@ -1,0 +1,8 @@
+## Methodology
+
+1. Measure battery voltage using ESP32 ADC
+2. Read temperature from DS18B20 sensor
+3. Compare temperature against safe limits
+4. If unsafe, increment Temperature Abuse Counter
+5. Store counter value in non-volatile memory
+6. Display or transmit battery health data
